@@ -20,7 +20,7 @@ Proyecto que implementa una **interfaz gráfica (GUI)** para emular un dashboard
 - **Comunicación Serial** (UART a 115200 bps).  
 
 ## 📸 Vista Previa  
-![Foto del prototipo](Diagrama prototipo.png)  
+![Foto del prototipo](https://github.com/SergioOriz/CAN-EduCluster/blob/main/Diagrama%20prototipo.png)  
 
 ## 📚 Documentación Adicional  
 Consulta los [docs](/docs/) para guías detalladas.  
