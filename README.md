@@ -20,7 +20,7 @@ Proyecto que implementa una **interfaz gráfica (GUI)** para emular un dashboard
 - **Comunicación Serial** (UART a 115200 bps).  
 
 ## 📸 Vista Previa  
-![Foto del prototipo](C:\Users\ortiz\OneDrive\Documentos\MAESTRIA\TESIS\Infográficos)  
+![Foto del prototipo](C:\Users\ortiz\OneDrive\Documentos\MAESTRIA\TESIS\Infográficos\Diagramaprototipo)  
 
 ## 📚 Documentación Adicional  
 Consulta los [docs](/docs/) para guías detalladas.  
