@@ -1,0 +1,15 @@
+Licencia MIT
+
+Derechos de autor (c) 2025 Ing. Sergio Josue Ortiz Hernandez
+
+Por la presente se concede permiso, sin costo alguno, a cualquier persona que obtenga una copia de este software y los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, incluyendo, sin limitación, los derechos para usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y para permitir a las personas a quienes se les proporcione el Software hacer lo mismo, sujeto a las siguientes condiciones:
+
+El aviso de derechos de autor anterior y este aviso de permiso deberán incluirse en todas las copias o partes sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES POR CUALQUIER RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRO TIPO, QUE SURJA DE, O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATAMIENTOS EN EL SOFTWARE.
+
+Bibliotecas de terceros:
+- Pillow: Licenciado bajo la Historical Permission Notice and Disclaimer (HPND).
+- pyserial: Licenciado bajo la Licencia BSD.
+- tkinter: Licenciado bajo la Python Software Foundation License.
+Consulte la documentación respectiva para detalles completos de las licencias.
