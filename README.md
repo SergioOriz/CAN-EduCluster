@@ -15,7 +15,7 @@ El siguiente diagrama ilustra la arquitectura general del sistema, mostrando los
   - `Motor_Base/base1(2).STL`
 - **Documentation**: Documentación técnica y manuales.
   - `Datasheets/`
-    - `motor_datasheet.pdf`
+    - `RS-550.pdf`
     - `thermistor_1kOhm_datasheet.pdf`
     - `hall_effect_sensor_44E_datasheet.pdf`
   - `Manuals/`
