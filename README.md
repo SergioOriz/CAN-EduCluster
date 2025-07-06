@@ -11,7 +11,7 @@ El siguiente diagrama ilustra la arquitectura general del sistema, mostrando los
 ## Estructura del Repositorio
 
 - **Hardware**: Archivos STL para impresión 3D.
-  - `Pedal/pedal.stl`
+  - `Pedal/base_pedal.stl`
   - `Motor_Base/motor_base.stl`
 - **Documentation**: Documentación técnica y manuales.
   - `Datasheets/`
