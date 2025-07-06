@@ -17,7 +17,7 @@ El siguiente diagrama ilustra la arquitectura general del sistema, mostrando los
   - `Datasheets/`
     - `RS-550.pdf`
     - `thermistor_1kOhm_datasheet.pdf`
-    - `hall_effect_sensor_44E_datasheet.pdf`
+    - `OH44E.PDF`
   - `Manuals/`
     - `User_Manual_GUI_Cuadro_de_Instrumentos.pdf`
     - `Lab_Manual.pdf`
