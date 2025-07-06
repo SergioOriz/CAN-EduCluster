@@ -16,29 +16,29 @@ El siguiente diagrama ilustra la arquitectura general del sistema, mostrando los
 - **Documentation**: Documentación técnica y manuales.
   - `Datasheets/`
     - `RS-550.pdf`
-    - `thermistor_1kOhm_datasheet.pdf`
+    - `NTC (1).PDF`
     - `OH44E.PDF`
-  - `Manuals/`
-    - `User_Manual_GUI_Cuadro_de_Instrumentos.pdf`
-    - `Lab_Manual.pdf`
-- **Code**: Códigos organizados por prácticas.
-  - `Practice_2/`
+  - `Manuales/`
+    - `Manual_de_Usuario_GUI_Cuadro_de_Instrumentos.pdf`
+    - `Manual_de_Practicas.pdf`
+- **Codigos**: Códigos organizados por prácticas.
+  - `Practica_2/`
     - `CAN_Autonomous/` (Arduino con MCP2515)
     - `CAN_Integrated/` (ESP32 con SN65HVD230)
-  - `Practice_3/`: Sensor RPM
-  - `Practice_4/`: Sensor de temperatura
-  - `Practice_5/`: Sensor de nivel de combustible
-  - `Practice_6/`
+  - `Practica_3/`: Sensor RPM
+  - `Practica_4/`: Sensor de temperatura
+  - `Practica_5/`: Sensor de nivel de combustible
+  - `Practica_6/`
     - `Transmitter_Node/`
     - `Receiver_Node/`
 - **GUI_Installer**: Instalador de la interfaz gráfica.
-  - `Setup_GUI_Cuadro_Instrumentos.exe`
+  - `GUI Cuadro de Instrumentos.exe`
 
 ## Instrucciones de Uso
 
 1. **Hardware**: Imprime los componentes usando los STL.
 2. **Documentación**: Consulta los datasheets y manuales para detalles técnicos.
 3. **Código**: Selecciona la práctica y plataforma, carga el código en el microcontrolador. Instala las bibliotecas necesarias (ej., MCP_CAN, CAN) vía el IDE.
-4. **GUI**: Instala la interfaz gráfica con el instalador y sigue el `User_Manual_GUI_Cuadro_de_Instrumentos.pdf`.
+4. **GUI**: Instala la interfaz gráfica con el instalador y sigue el `Manual_de_Usuario_GUI_Cuadro_de_Instrumentos.pdf`.
 
-Para más detalles, revisa el `Lab_Manual.pdf` en `Documentation/Manuals/`.
+Para más detalles, revisa el `Manual_de_Practicas` en `Documentacion/Manuales/`.
