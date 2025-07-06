@@ -6,7 +6,7 @@ Este repositorio contiene los recursos para el proyecto CAN-EduCluster, una red 
 
 El siguiente diagrama ilustra la arquitectura general del sistema, mostrando los subsistemas para la lectura de temperatura, medición de velocidad, monitoreo del nivel de gasolina, y un gateway central que recopila los datos y se conecta a la GUI del cuadro de instrumentos.
 
-![Diagrama del Sistema](Diagramaprototipo.png")
+![Diagrama del Sistema](Diagramaprototipo.png "Diagrama del sistema CAN-EduCluster que muestra los subsistemas interconectados para temperatura, velocidad, nivel de gasolina, y un gateway central conectado a una GUI de cuadro de instrumentos.")
 
 ## Estructura del Repositorio
 
