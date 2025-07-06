@@ -12,7 +12,7 @@ El siguiente diagrama ilustra la arquitectura general del sistema, mostrando los
 
 - **Hardware**: Archivos STL para impresión 3D.
   - `Pedal/base_pedal.stl`
-  - `Motor_Base/motor_base.stl`
+  - `Motor_Base/base1(2).STL`
 - **Documentation**: Documentación técnica y manuales.
   - `Datasheets/`
     - `motor_datasheet.pdf`
